@@ -4,7 +4,7 @@
 "manifest_version": 2,
     "name": "OC_Cheat",
     "description": "Simplifie la vie de ceux qui veulent apprendre.",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "content_scripts": [
         {
             "matches": [
